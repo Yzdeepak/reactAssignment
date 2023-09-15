@@ -1,0 +1,16 @@
+#demo{
+    color: red;
+    width: 50vh;
+    height: 5vh;
+}
+main{
+    margin: 20% 50%;
+
+}
+button{
+    margin-left: 2rem;
+    width: 80px;
+    height: 30px;
+    background-color: rgba(13, 252, 105, 0.997);
+    color: white;
+}
